@@ -1,0 +1,6 @@
+gymnasium[all]==0.28.1
+numpy
+pandas==2.0.3
+torch
+stable-baselines3
+wandb
